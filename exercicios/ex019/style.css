@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body{
+    background-color:#E3D9A8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+h1{
+    color: #635C38;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1#principal{
+    text-align: center;
+    background-color:#332D10;
+    color: #85793A;
+}
+
+h2{
+    color: #A39E84;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    text-align: justify;
+}
+
+.basico{
+    color: #00ea2b;
+    font-weight: bold;
+}
+
+.intermediario{
+    color: #b2bb09;
+}
+
+.avancado{
+    color: #e61212;
+}
+
+.destaque{
+    background-color: #b6b65c75 ;
+}
